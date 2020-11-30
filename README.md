@@ -3,6 +3,9 @@ Classification of coronavirus pneumonia based on CT images.
 
 
 # dataset
+
+LINK ![linke](https://arxiv.org/pdf/2003.13865.pdf)
+
 COVID ![image](https://github.com/mshmoon/Classification-of-pneumonia-/blob/main/dataset/train_images/COVID__2020.01.24.919183-p27-132.png)
 
 
